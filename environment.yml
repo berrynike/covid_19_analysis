@@ -1,0 +1,9 @@
+name: covid_19_analysis_venv
+channels:
+  - defaults
+dependencies:
+  - matplotlib
+  - pandas
+  - numpy
+  - plotly
+prefix: C:\Users\James\anaconda3\envs\covid_19_analysis_venv
